@@ -1,0 +1,2 @@
+plugin:
+  execute: bash "${pdc_path_plugins}/pdc-plugin-test/main.sh"
